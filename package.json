@@ -1,5 +1,5 @@
 {
-  "name": "jQuery-rwdImageMaps",
+  "name": "jquery-rwdimagemaps",
   "version": "1.6",
   "description": "Allows image maps to be used in a responsive design by recalculating the area coordinates to match the actual image size on load and window.resize",
   "main": "jquery.rwdImageMaps.js",
